@@ -1,0 +1,29 @@
+.my_nav_bar{
+    position:fixed;
+    top:0;
+    z-index:99999
+}
+img{
+    height=100%;
+    width=100%;
+}
+
+#campus{
+    font-size:15px;
+font-family:cursive;
+    text-align: center;
+    background-color: black;
+   
+    
+}
+
+.achive{
+    font-size:20px;
+    font-family: monospace;
+}
+.vid{
+    text-align: center;
+}
+.if{
+    margin-bottom:40px;
+}
